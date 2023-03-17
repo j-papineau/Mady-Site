@@ -1,0 +1,56 @@
+img {
+    -webkit-filter: brightness(90%);
+}
+
+img:hover {
+    -webkit-filter: brightness(50%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.carousel-caption p{
+    font-size: 20px;
+    color: #f5d7d7;
+    opacity: 1;
+}
+
+.carousel-caption h5{
+    text-align: center;
+    font-size: 50px;
+    color: #f5d7d7;
+    opacity: .9;
+}
+.carousel img{
+    opacity: .75;
+}
+
+.buttonblock button{
+    margin-top: 2%;
+}
+
+#instagram{
+
+}
+
+.card{
+    -webkit-filter: brightness(90%);
+}
+
+.card:hover{
+    -webkit-filter: brightness(50%);
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;
+}
+#tiles{
+    padding-bottom: 50px;    
+}
+
+#cardtext {
+    color:whitesmoke;
+    opacity: .95;
+}
